@@ -1,0 +1,10 @@
+{
+  "port": 5000,
+  "db_host": "localhost",
+  "db_dialect": "postgres",
+  "db_username": "postgres",
+  "db_password": "Uzb$0706",
+  "db_port": "5432",
+  "db_name": "homedev",
+  "url": "http://localhost:5000/"
+}
